@@ -1,3 +1,7 @@
+
+//GitHub Link:
+// https://github.com/NikkiDunlap/cs81-module5b-weektracker
+
 /* ========= 1. WEEKLY DATA ========= */
 const myWeek = 
 [
